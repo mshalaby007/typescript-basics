@@ -1,0 +1,23 @@
+step 1: install node js
+check install-> node -- version
+-----------------------------------------------------------------------------------------
+#g stands for global / cli = command line interface / used for creating boiler plate code
+-and generating 
+step 2: run command -> sudo npm install -g @angular/cli
+check install-> ng version
+-----------------------------------------------------------------------------------------
+step 3: creare first project 
+ng new hello-world
+use npm routing and css
+-----------------------------------------------------------------------------------------
+code . opens vs code and the folder realted to whats being worked on
+-----------------------------------------------------------------------------------------
+step 4: cd into folder and run app via -> ng serve
+-----------------------------------------------------------------------------------------
+strp 5: install typescript -> sudo npm install -g typescript
+
+check version -> isc --version
+
+run typescript with -> tsc filename (main.ts)
+
+run files like so -> tsc main.ts | node main.js
